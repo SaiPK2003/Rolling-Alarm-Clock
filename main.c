@@ -1,3 +1,8 @@
+//Final Project
+//MTE 121
+//Sai Prakash Kumar, Victor Salvador, Timothy Pham, Vishan Muralikaran
+//Parallel Parking Simulation
+
 // Constants for various time conversions and limits
 const float WHEEL_RADIUS = 2.75; // Radius of the wheel in cm
 const int MIN_IN_MS = 60000;     // Minutes in milliseconds
