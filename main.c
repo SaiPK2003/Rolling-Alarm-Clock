@@ -1,6 +1,6 @@
 /*Final Project
-//MTE 121
-//Sai Prakash Kumar, Victor Salvador, Timothy Pham, Vishan Muralikaran
+MTE 121
+Sai Prakash Kumar, Victor Salvador, Timothy Pham, Vishan Muralikaran
 Parallel Parking Simulation*/
 
 // Constants for various time conversions and limits
